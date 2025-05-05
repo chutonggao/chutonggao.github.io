@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: # "Publications"
+title: "Working Papers" # "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-# Working Papers
 
 1. **Stability, Design, and Control of Fork-Join Systems with Redundancy and Heterogeneous Servers.**
   
