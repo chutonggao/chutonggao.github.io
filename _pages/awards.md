@@ -4,6 +4,7 @@ title: Selected Honors and Awards
 permalink: /awards/
 author_profile: true
 ---
+- Nemhauser Best Student Paper Award (2026)
 - Arthur P. Hurter Award for the Best First-Year PhD Student (2022), IEMS, Northwestern University
 - Valedictorian (2021) , College of Engineering, Peking University
 - Ranking 1st in Engineering Mechanics, Peking University (2021)
