@@ -12,7 +12,7 @@ I am a postdoctoral researcher at the [Mitch Daniels School of Business](https:/
 My research centers on the performance analysis, design, and control of stochastic systems through applying and developing tools in applied probability, queueing theory, and optimization. A key focus of my work is understanding the value of ***redundancy***, ***flexibility***, and their ***interplay***---with both their limited ("a little") and full versions---in improving (or potentially harming) the efficiency of fork-join systems. 
 My work has broad relavance to a range of applications, including online service operations (e.g., cloud computing and storage systems, federal learning platforms), healthcare systems, supply chains, and multi-agent LLM systems. 
 
-Prior to Northwestern, I received my bachelor’s degree in Engineering Mechanics at Peking University (ranking top 1 in the major), where I was advised by [Prof. Leyuan Shi](https://directory.engr.wisc.edu/ie/Faculty/Shi_Leyuan/). In summer 2020, I worked as an operations reseracher intern in [Cardinal Operations](https://www.shanshu.ai).
+Prior to Northwestern, I received my bachelor’s degree in Engineering Mechanics at Peking University (ranking top 1 in the major), where I was advised by [Prof. Leyuan Shi](https://directory.engr.wisc.edu/ie/Faculty/Shi_Leyuan/). 
 
 
 
