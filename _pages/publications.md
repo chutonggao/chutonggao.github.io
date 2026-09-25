@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: Publications
+title: Working Papers
 permalink: /publications/
 author_profile: true
 ---
-
-# Working Papers
 
 1. **Stability of Fork-Join Systems with Redundancy and Heterogeneous Servers.**
 
