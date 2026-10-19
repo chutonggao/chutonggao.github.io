@@ -11,11 +11,20 @@ author_profile: true
 
 2. **Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation.**
 
-    With Heyuan Yao, Yuan Lyu, Izzy Grosof, and David Simchi-Levi. *arXiv preprint arXiv:2609.02027 (2026).* [[Preprint]](https://arxiv.org/abs/2609.02027)
+    With Heyuan Yao, Yuan Lyu, Izzy Grosof, and David Simchi-Levi.
+
+    *Short version accepted in the [NeurIPS 2026 Second Workshop on ML×OR](https://mlxor-2026.github.io/).*  
+    *Full version in preparation for submission to Operations Research.*
+
+    *arXiv preprint arXiv:2609.02027 (2026).* [[Preprint]](https://arxiv.org/abs/2609.02027)
 
 3. **OR-Transformer: Scaling Real-Time Decision-Making to 1,000 Items.**
 
-    With Shuze Daniel Liu, David Simchi-Levi, Claire Chen, and Shangtong Zhang. *arXiv preprint arXiv:2609.01933 (2026).* [[Preprint]](https://arxiv.org/abs/2609.01933)
+    With Shuze Daniel Liu, David Simchi-Levi, Claire Chen, and Shangtong Zhang.
+
+    *Accepted in the [NeurIPS 2026 Second Workshop on ML×OR](https://mlxor-2026.github.io/).*
+
+    *arXiv preprint arXiv:2609.01933 (2026).* [[Preprint]](https://arxiv.org/abs/2609.01933)
 
 4. **The Value and Curse of Redundancy in Designing Fork-Join Systems.**
 
