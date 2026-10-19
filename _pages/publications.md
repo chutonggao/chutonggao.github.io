@@ -13,24 +13,25 @@ author_profile: true
 
     With Heyuan Yao, Yuan Lyu, Izzy Grosof, and David Simchi-Levi.
 
-    *Short version accepted in the NeurIPS 2026 Second Workshop on ML×OR. * [[arXiv]](https://arxiv.org/abs/2609.02027)  
+    *Short version accepted in the NeurIPS 2026 Second Workshop on ML×OR.* [[arXiv]](https://arxiv.org/abs/2609.02027)
+   
     *Full version in preparation for submission to Operations Research.*
 
-3. **OR-Transformer: Scaling Real-Time Decision-Making to 1,000 Items.**
+4. **OR-Transformer: Scaling Real-Time Decision-Making to 1,000 Items.**
 
     With Shuze Daniel Liu, David Simchi-Levi, Claire Chen, and Shangtong Zhang.
 
     *Accepted in the NeurIPS 2026 Second Workshop on ML×OR.* [[arXiv]](https://arxiv.org/abs/2609.01933)
 
-4. **The Value and Curse of Redundancy in Designing Fork-Join Systems.**
+5. **The Value and Curse of Redundancy in Designing Fork-Join Systems.**
 
     With Seyed Iravani and Ohad Perry. *In preparation for submission to Management Science*. 
 
-5. **Asymptotic Equivalence of a Little Redundancy and a Little Flexibility.**
+6. **Asymptotic Equivalence of a Little Redundancy and a Little Flexibility.**
 
     With Seyed Iravani and Ohad Perry. *Work in progress*.
 
-6. **Continuous Multiserver-Job Scheduling under Varying Resource Requirements with Applications to LLM Serving.**
+7. **Continuous Multiserver-Job Scheduling under Varying Resource Requirements with Applications to LLM Serving.**
 
     With Heyuan Yao and Izzy Grosof. *Work in progress*.
 
