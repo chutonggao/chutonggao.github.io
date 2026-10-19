@@ -22,21 +22,21 @@ repository               : "chutonggao/chutonggao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-2026.jpeg"
   name             : "Chutong Gao"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Ph.D. Student in Operations Research at Northwestern University"
-  location         : "Evanston, IL, US"
-  employer         : "Northwestern University"
+  bio              : "Postdoctoral Researcher at MIT & Purdue University"
+  location         : "Boston, MA, US"
+  employer         : "MIT & Purdue University"
   uri              : # URL
-  email            : "chutong@u.northwestern.edu" 
+  email            : "chutong@mit.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=_Y3vRe8AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3349-353X"
+  orcid            :
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
