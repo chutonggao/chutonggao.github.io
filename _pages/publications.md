@@ -13,9 +13,8 @@ author_profile: true
 
     With Heyuan Yao, Yuan Lyu, Izzy Grosof, and David Simchi-Levi.
 
-    *Short version accepted in the NeurIPS 2026 Second Workshop on ML×OR.* [[arXiv]](https://arxiv.org/abs/2609.02027)
-   
-    *Full version in preparation for submission to Operations Research.*
+    <em>Short version accepted in the NeurIPS 2026 Second Workshop on ML×OR.</em> <a href="https://arxiv.org/abs/2609.02027">[arXiv]</a><br>
+    <em>Full version in preparation for submission to Operations Research.</em>
 
 4. **OR-Transformer: Scaling Real-Time Decision-Making to 1,000 Items.**
 
