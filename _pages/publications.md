@@ -7,39 +7,35 @@ author_profile: true
 
 1. **Stability of Fork-Join Systems with Redundancy and Heterogeneous Servers.**
 
-    With Seyed Iravani and Ohad Perry. *Rejected and resubmitted to Operations Research*. *arXiv:2609.09237 (2026).* [[arXiv]](https://arxiv.org/abs/2609.09237)
+    With Seyed Iravani and Ohad Perry. *Rejected and resubmitted to Operations Research*. [[arXiv]](https://arxiv.org/abs/2609.09237)
 
 2. **Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation.**
 
     With Heyuan Yao, Yuan Lyu, Izzy Grosof, and David Simchi-Levi.
 
-    *Short version accepted in the [NeurIPS 2026 Second Workshop on ML×OR](https://mlxor-2026.github.io/).*  
+    *Short version accepted in the NeurIPS 2026 Second Workshop on ML×OR. * [[arXiv]](https://arxiv.org/abs/2609.02027)  
     *Full version in preparation for submission to Operations Research.*
-
-    *arXiv preprint arXiv:2609.02027 (2026).* [[Preprint]](https://arxiv.org/abs/2609.02027)
 
 3. **OR-Transformer: Scaling Real-Time Decision-Making to 1,000 Items.**
 
     With Shuze Daniel Liu, David Simchi-Levi, Claire Chen, and Shangtong Zhang.
 
-    *Accepted in the [NeurIPS 2026 Second Workshop on ML×OR](https://mlxor-2026.github.io/).*
-
-    *arXiv preprint arXiv:2609.01933 (2026).* [[Preprint]](https://arxiv.org/abs/2609.01933)
+    *Accepted in the NeurIPS 2026 Second Workshop on ML×OR.* [[arXiv]](https://arxiv.org/abs/2609.01933)
 
 4. **The Value and Curse of Redundancy in Designing Fork-Join Systems.**
 
-    With Seyed Iravani and Ohad Perry. *In preparation for submission to Management Science*.
+    With Seyed Iravani and Ohad Perry. *In preparation for submission to Management Science*. 
 
 5. **Asymptotic Equivalence of a Little Redundancy and a Little Flexibility.**
 
     With Seyed Iravani and Ohad Perry. *Work in progress*.
 
-6. **Continuous Scheduling in LLM Inference with Time-Varying Resource Requirements.**
+6. **Continuous Multiserver-Job Scheduling under Varying Resource Requirements with Applications to LLM Serving.**
 
-    With Izzy Grosof and Heyuan Yao. *Work in progress*.
+    With Heyuan Yao and Izzy Grosof. *Work in progress*.
 
 
-# Publications
+# Earlier Publications
 
 1. **Robust Optimization on Unrelated Parallel Machine Scheduling with Setup Times.**
 
