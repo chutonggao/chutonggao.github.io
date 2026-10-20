@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Chutong Gao"
 title_separator          : "-"
 name                     : &name "Chutong Gao"
-description              : &description "personal description"
+description              : &description "Chutong Gao is a postdoctoral researcher at MIT and Purdue University working on operations research, applied probability, queueing systems, and LLM inference."
 url                      : https://chutonggao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chutonggao/chutonggao.github.io"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://linkedin.com/in/chutong-gao-1b0570172" # Username
+  linkedin         : "chutonggao"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Usernamek9
@@ -89,7 +89,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -119,12 +119,12 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "mqoYyVg17WVnp8AwNJLB2N1m_zOGkbdkj6xs9HdtkmU"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -141,9 +141,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: Chutong Gao
+  links:
+    - "https://scholar.google.com/citations?user=_Y3vRe8AAAAJ"
+    - "https://www.linkedin.com/in/chutonggao/"
 
 
 # Analytics
@@ -159,6 +161,42 @@ include:
   - _pages
   - files
 exclude:
+  # Unused AcademicPages examples are kept in source but not published.
+  - _posts
+  - _drafts
+  - _portfolio
+  - _talks
+  - _teaching
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - markdown_generator
+  - scripts
+  - CONTRIBUTING.md
+  - .DS_Store
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -215,21 +253,44 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # The XML sitemap contains only the three genuine canonical pages.
+  - scope:
+      path: ""
+    values:
+      sitemap: false
+  - scope:
+      path: "_pages/about.md"
+    values:
+      sitemap: true
+  - scope:
+      path: "_pages/publications.md"
+    values:
+      sitemap: true
+      description: "Working papers and publications by Chutong Gao on operations research, queueing systems, redundancy, LLM inference, and real-time decision-making."
+  - scope:
+      path: "_pages/awards.md"
+    values:
+      sitemap: true
+      description: "Research awards, honors, and academic recognition received by Chutong Gao."
+  - scope:
+      path: "_pages/404.md"
+    values:
+      noindex: true
   # _posts
   - scope:
       path: ""
